@@ -1,0 +1,42 @@
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\bin\Debug\Jepordy.exe.config
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\bin\Debug\Jepordy.exe
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\bin\Debug\Jepordy.pdb
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.csprojResolveAssemblyReference.cache
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.MainForm.resources
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.OptionsForm.resources
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.Properties.Resources.resources
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.csproj.GenerateResource.Cache
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.exe
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.pdb
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.QandAForm.resources
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.Message.resources
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.ResultsScreen.resources
+H:\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.Splash.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\bin\Debug\Jepordy.exe.config
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.exe
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.pdb
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\bin\Debug\Jepordy.exe
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\bin\Debug\Jepordy.pdb
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.csprojResolveAssemblyReference.cache
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.MainForm.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.Message.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.OptionsForm.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.Properties.Resources.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.QandAForm.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.ResultsScreen.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.Splash.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\Jepordy\Jepordy\obj\Debug\Jepordy.csproj.GenerateResource.Cache
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\bin\Debug\Jepordy.exe.config
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.exe
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.pdb
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\bin\Debug\Jepordy.exe
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\bin\Debug\Jepordy.pdb
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.csprojResolveAssemblyReference.cache
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.MainForm.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.Message.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.OptionsForm.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.Properties.Resources.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.QandAForm.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.ResultsScreen.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.Splash.resources
+C:\Users\kb0783332\Desktop\Jepordy\Jepordy\Jepordy\obj\Debug\Jepordy.csproj.GenerateResource.Cache
